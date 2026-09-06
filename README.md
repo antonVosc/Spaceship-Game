@@ -4,12 +4,12 @@ A simple and exciting two-player spaceship game built with Pygame, where two pla
 
 # Features
 
-- Two-Player Gameplay - Two players can play together on the same computer.
-- Spaceship Controls - Players can move their spaceships using keyboard controls.
-- Bullet Firing - Players can fire bullets to attack the opposing spaceship.
-- Lives System - Each player has a limited number of lives.
-- Sound Effects - Includes sound effects for shooting and other game actions.
-- Simple Design - Lightweight and easy-to-play arcade-style gameplay.
+- **Two-Player Gameplay** - Two players can play together on the same computer.
+- **Spaceship Controls** - Players can move their spaceships using keyboard controls.
+- **Bullet Firing** - Players can fire bullets to attack the opposing spaceship.
+- **Lives System** - Each player has a limited number of lives.
+- **Sound Effects** - Includes sound effects for shooting and other game actions.
+- **Simple Design** - Lightweight and easy-to-play arcade-style gameplay.
 
 Controls
 
